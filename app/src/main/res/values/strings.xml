@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jobs</string>
+    <string name="autor_name">Ciro Aricoma</string>
+    <string name="label_detail">Description</string>
+    <string name="label_phone">Contacts</string>
+    <string name="label_title">Title</string>
+    <string name="mn_close">Exit Aplication</string>
+    <string name="mn_newjob">New Post Job</string>
+    <string name="mn_sync">Synchronizing</string>
+    <string name="lb_save">Send Post</string>
+    <string name="title_job_detail">Job Detail</string>
+    <string name="title_job_post">Post Job</string>
+</resources>

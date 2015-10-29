@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/MenuOpcion1"
+        android:title="@string/mn_sync"
+        android:onClick="syncAction"/>
+
+    <item android:id="@+id/MenuOpcion2"
+        android:title="@string/mn_newjob"
+        android:onClick="NewPost"/>
+
+    <item android:id="@+id/MenuOpcion3"
+        android:title="@string/mn_close"
+        android:onClick="cerrarapp"/>
+
+</menu>
